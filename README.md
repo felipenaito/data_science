@@ -15,7 +15,7 @@ Looking forward to utilizing Data Science to further understand customers throug
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipe-borelli)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@felipeborelli)
 
 
 ## Projects:
