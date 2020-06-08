@@ -20,4 +20,5 @@ Looking forward to utilizing Data Science to further understand customers throug
 
 ## Projects:
 Check these beauties:
+* Análise de Dados do Airbnb - Florença: https://bit.ly/2zdOrkn
 
