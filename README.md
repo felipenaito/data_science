@@ -11,7 +11,7 @@ Major in Business from University of São Paulo (USP) and Digital Marketing + Da
 Experience in analyzing data from big companies when it comes to marketing and using tools like Tableau, Google Data Studio and Datorama.
 Looking forward to utilizing Data Science to further understand customers through Customer Analytics and to create a positive impact through storytelling. 
 
-**Background in:** Python, Machine Learning, Data Viz.
+**Background in:** Python, Machine Learning, Data Viz, Bad Jokes.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipe-borelli)
